@@ -35,6 +35,7 @@ Add the following to your server.cfg (Ensure okokBanking starts first!):
 Code snippet
 ensure okokBanking
 ensure Lyd-ATMRobbery
+
 3. Manifest Setup
 If you use a custom name for your banking script, update the @okokBanking/config.lua line in the fxmanifest.lua.
 
